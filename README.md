@@ -1,5 +1,22 @@
 # flutter-cursor-plugin-example
 
+> [!IMPORTANT]
+> **This project was archived on August 30, 2026 and is no longer maintained.**
+> It was created as a companion to the archived
+> [`flutter-cursor-plugin`](https://github.com/Wreos/flutter-cursor-plugin) and
+> should not be used as current Flutter or Dart AI-agent guidance.
+
+For a maintained setup, use Flutter's official resources:
+
+- [Get started developing with AI](https://docs.flutter.dev/ai/get-started)
+- [Official Flutter Agent Plugins](https://github.com/flutter/agent-plugins)
+- [Official Dart skills](https://github.com/dart-lang/skills)
+- [Dart and Flutter MCP server](https://docs.flutter.dev/ai/mcp-server)
+
+The code below is preserved only as a read-only example of the repository's
+former project structure. No new features, fixes, or compatibility updates are
+planned.
+
 Reference Flutter project layout for the [flutter-cursor-plugin](https://github.com/Wreos/flutter-cursor-plugin).
 
 ## Goal
